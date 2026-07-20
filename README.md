@@ -6,6 +6,14 @@
 
 ![image](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/98369599dab566198764604294ebc1c8f4607b62/ss_98369599dab566198764604294ebc1c8f4607b62.1920x1080.jpg?t=1780282746)
 
+# Goals
+- [ ] Add All Builds
+- [ ] Add All Mappings
+
+---
+
+> [!NOTE]
+> This project is temporarily on pause until i download all BET builds and dump all the mappings for each build and find a website to allow me to host them.
 
 # **Backrooms: Escape Together - Builds**
 *Latest Version:* **```v0.14.8.1 (CL-15872)```**
